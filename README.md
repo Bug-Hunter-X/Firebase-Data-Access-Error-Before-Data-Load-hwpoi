@@ -1,0 +1,2 @@
+# Firebase Data Access Error Before Data Load
+This repository demonstrates a common error in Firebase applications: accessing document snapshot properties before the data has fully loaded.  The `bug.js` file showcases the problematic code, which leads to an error. The `bugSolution.js` file presents a solution using asynchronous operations properly.
